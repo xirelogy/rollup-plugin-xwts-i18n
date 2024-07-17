@@ -1,6 +1,6 @@
 {
   "name": "@xirelogy/rollup-plugin-xwts-i18n",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Process xwts-i18n compatible locale translations with rollup",
   "keywords": [
     "rollup-plugin",
