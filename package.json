@@ -1,12 +1,16 @@
 {
   "name": "@xirelogy/rollup-plugin-xwts-i18n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Process xwts-i18n compatible locale translations with rollup",
   "keywords": [
     "rollup-plugin",
     "xwts",
     "xwts-i18n"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xirelogy/rollup-plugin-xwts-i18n"
+  },
   "engines": {
     "node": ">=16.0.0"
   },
